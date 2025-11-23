@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huangmao12345
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... HTML/CSS, Javascript, Python
+- 🌱 I’m currently learning ... Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... danielhuang2020@u.northwestern.edu
 
